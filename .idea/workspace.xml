@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8aacc3fa-9d21-4c5e-99a5-1614eea34191" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Booking test API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API_tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/APIs_setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/configuration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2qDS2hClMLmqEQ5fgohobCOOgEP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for API_tests.TestAPIs.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_firstname.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_lastname_depositpaid_and_checkout.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_totalprice_checkin_and_additionalneeds.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_token.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_delete_booking_by_ID.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_all_bookings.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_ID.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_checkin.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_checkin_and_checkout.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_checkout.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_lastname.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_lastname_and_checkin.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_lastname_and_checkout.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_name.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_name_checkin_and_checkout.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_name_lastname_and_checkin.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_name_lastname_and_checkout.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_ping_API.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_update_booking.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_update_firstname_in_booking.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_update_lastname_depositpaid_and_checkout_in_booking.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_update_totalprice_checkin_and_additionalneeds_in_booking.executor": "Run",
+    "Python tests.Python tests for APItest.TestBookingAPIs.test_API_health.executor": "Run",
+    "Python.APIs_setup.executor": "Run",
+    "Python.APItest.executor": "Run",
+    "Python.configuration.executor": "Run",
+    "Python.data.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/ibrac/OneDrive/Documentos/PyCharm/Booking test API"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ibrac\OneDrive\Documentos\PyCharm\Booking test API" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for API_tests.TestAPIs">
+    <configuration name="configuration" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Booking test API" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\ibrac\OneDrive\Documentos\PyCharm\Booking test API\configuration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for API_tests.TestAPIs" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Booking test API" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;API_tests.TestAPIs&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for API_tests.TestAPIs.test_delete_booking_by_ID" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Booking test API" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;API_tests.TestAPIs.test_delete_booking_by_ID&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for API_tests.TestAPIs.test_update_firstname_in_booking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Booking test API" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;API_tests.TestAPIs.test_update_firstname_in_booking&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for API_tests.TestAPIs.test_update_lastname_depositpaid_and_checkout_in_booking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Booking test API" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;API_tests.TestAPIs.test_update_lastname_depositpaid_and_checkout_in_booking&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for API_tests.TestAPIs.test_update_totalprice_checkin_and_additionalneeds_in_booking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Booking test API" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;API_tests.TestAPIs.test_update_totalprice_checkin_and_additionalneeds_in_booking&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs" />
+        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs.test_delete_booking_by_ID" />
+        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs.test_update_lastname_depositpaid_and_checkout_in_booking" />
+        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs.test_update_totalprice_checkin_and_additionalneeds_in_booking" />
+        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs.test_update_firstname_in_booking" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8aacc3fa-9d21-4c5e-99a5-1614eea34191" name="Changes" comment="" />
+      <created>1734195446575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734195446575</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/configuration.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
