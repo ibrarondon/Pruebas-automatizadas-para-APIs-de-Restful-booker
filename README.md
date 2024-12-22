@@ -1,5 +1,5 @@
 # Pruebas automatizadas para APIs de Restful-booker
-Restful-booker es un sitio para practicar testing de APIs. Se trata en un sitio de reservaciones en el que desarrollé pruebas automatizadas para verificar el funcionamiento de las APIs.
+Restful-booker es un sitio para practicar testing de APIs. Se trata en un sitio de reservaciones en el que desarrollé pruebas automatizadas para verificar el funcionamiento de las APIs haciendo uso de los métodos HTTP GET, POST, UPDATE y DELETE.
 
 Apidoc: https://restful-booker.herokuapp.com/apidoc/index.html
 ### Descripción:
