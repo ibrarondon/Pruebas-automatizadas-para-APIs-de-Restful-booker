@@ -3,9 +3,11 @@ Restful-booker es un sitio para practicar testing de APIs. Se trata en un sitio 
 
 Apidoc: https://restful-booker.herokuapp.com/apidoc/index.html
 ### Descripción:
-- Se crearon pruebas 23 pruebas autónomas para probar el status del servidor, creación de token, creación, modificación búsqueda y eliminación de reservaciones.
+- Se crearon pruebas funcionales autónomas para probar el status del servidor, creación de token, creación, modificación búsqueda y eliminación de reservaciones.
 - En las pruebas de búsqueda se consideró crear una reservación que coincida con los parámetros de búsqueda para asegurar que existan estos datos al momento de ejecutarse.
-- Luego de cada creación de reserva se procedió a eliminar la reservación para evitar acumulación de datos de prueba en la base de datos.
+- En las pruebas se consideró la optimización por pares de prueba para reducir los casos de estudio, pero también se consideraron elementos críticos individuales a probar.
+- En las pruebas se consideraron casos de pruebas positivos y negativos.
+- Luego de cada creación de reserva se procedió a eliminar la reservación para evitar acumulación de datos de prueba en la base de datos que interfirieran con las pruebas subsiguientes.
 
 ### Requisitos:
 - Necesitas tener instalados los paquetes pytest y request para ejecutar las pruebas.
@@ -21,6 +23,6 @@ Apidoc: https://restful-booker.herokuapp.com/apidoc/index.html
 
 Probé las APIs createToken, GetBookinIDs, GetBooking, CreateBooking, UpdateBooking, PartialUpdateBooking, DeleteBooking y HealthCheck a través de casos de pruebas automatizadas. Al ejecutar las pruebas encontré que se permite crear token, crear reservaciones, eliminarlas y modificarlas perfectamente. También encontré errores relacionados con la búsqueda de reservaciones por fechas, especialmente del checkin, causando que al realizar las búsquedas se muestre una lista equivocada de reservaciones. Se debe corregir la búsqueda de reservaciones por checkin, checkout y las distintas combinaciones posibles con los parámetros name y lastname para lograr un óptimo funcionamiento de las APIs. 
 
-[Reporte de bugs en JIRA para APIs de Restful-books](https://drive.google.com/file/d/1kXvjsnuuEgzKNzYzNQRsg8Ig3GMlOw09/view?usp=sharing) 
+[Reporte de bugs en JIRA para APIs de Restful-books](https://drive.google.com/file/d/1H_bDyn6-bHc7f3rHPYClaTBFOBiXVTD7/view?usp=sharing) 
 
 *Desarrollado por: Ibrahim Rondón - c13 QA Engineer, TripleTen*

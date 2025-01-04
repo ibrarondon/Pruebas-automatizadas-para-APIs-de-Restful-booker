@@ -4,19 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8aacc3fa-9d21-4c5e-99a5-1614eea34191" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Booking test API.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/API_tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/APIs_setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+    <list default="true" id="8aacc3fa-9d21-4c5e-99a5-1614eea34191" name="Changes" comment="Desarrollo 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/APIs_setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/APIs_setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +41,50 @@
   "keyToString": {
     "Python tests.Python tests for API_tests.TestAPIs.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_create_booking.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_boolean_additionalneeds.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_boolean_firstname.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_boolean_lastname.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_empty_additionalneeds.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_empty_body.executor": "Debug",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_empty_checkin.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_empty_checkout.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_empty_depositpaid.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_empty_firstname.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_empty_lastname.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_empty_totalprice.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_firstname.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_firstname_only.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_invalid_checkin.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_invalid_checkout.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_invalid_depositpaid.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_invalid_firstname.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_invalid_totalprice.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_lastname_depositpaid_and_checkout.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_totalprice_checkin_and_additionalneeds.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_create_token.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_delete_booking_by_ID.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_delete_booking_with_empty_ID.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_delete_booking_with_invalid_ID.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_delete_booking_with_nonexistent_ID.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_delete_booking_without_ID.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_get_all_bookings.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_ID.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_checkin.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_checkin_and_checkout.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_checkout.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_empty_ID.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_empty_checkin.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_empty_checkout.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_empty_lastname.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_empty_name.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_inexisting_checkin.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_inexisting_checkout.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_invalid_ID.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_invalid_checkin.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_invalid_checkout.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_invalid_lastname.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_invalid_name.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_invalid_numeric_ID.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_lastname.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_lastname_and_checkin.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_lastname_and_checkout.executor": "Run",
@@ -65,19 +92,28 @@
     "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_name_checkin_and_checkout.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_name_lastname_and_checkin.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_name_lastname_and_checkout.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_str_ID.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_str_checkin.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_str_checkout.executor": "Run",
+    "Python tests.Python tests for API_tests.TestAPIs.test_get_booking_by_valid_ID.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_ping_API.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_update_booking.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_update_firstname_in_booking.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_update_lastname_depositpaid_and_checkout_in_booking.executor": "Run",
     "Python tests.Python tests for API_tests.TestAPIs.test_update_totalprice_checkin_and_additionalneeds_in_booking.executor": "Run",
+    "Python tests.Python tests for API_tests.test_create_booking_with_empty_firstname.executor": "Run",
+    "Python tests.Python tests for API_tests.test_create_booking_with_empty_lastname.executor": "Run",
+    "Python tests.Python tests for API_tests.test_get_booking_by_name.executor": "Run",
     "Python tests.Python tests for APItest.TestBookingAPIs.test_API_health.executor": "Run",
+    "Python tests.Python tests in API_tests.py.executor": "Run",
     "Python.APIs_setup.executor": "Run",
     "Python.APItest.executor": "Run",
     "Python.configuration.executor": "Run",
     "Python.data.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ibrac/OneDrive/Documentos/PyCharm/Booking test API"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/ibrac/OneDrive/Documentos/PyCharm/Booking test API",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -85,7 +121,7 @@
       <recent name="C:\Users\ibrac\OneDrive\Documentos\PyCharm\Booking test API" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for API_tests.TestAPIs">
+  <component name="RunManager" selected="Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_invalid_checkout">
     <configuration name="configuration" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Booking test API" />
       <option name="ENV_FILES" value="" />
@@ -108,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for API_tests.TestAPIs" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for API_tests.TestAPIs.test_create_booking_with_invalid_checkin" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Booking test API" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,11 +155,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;API_tests.TestAPIs&quot;" />
+      <option name="_new_target" value="&quot;API_tests.TestAPIs.test_create_booking_with_invalid_checkin&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for API_tests.TestAPIs.test_delete_booking_by_ID" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for API_tests.TestAPIs.test_create_booking_with_invalid_checkout" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Booking test API" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,11 +170,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;API_tests.TestAPIs.test_delete_booking_by_ID&quot;" />
+      <option name="_new_target" value="&quot;API_tests.TestAPIs.test_create_booking_with_invalid_checkout&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for API_tests.TestAPIs.test_update_firstname_in_booking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for API_tests.TestAPIs.test_delete_booking_with_empty_ID" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Booking test API" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +185,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;API_tests.TestAPIs.test_update_firstname_in_booking&quot;" />
+      <option name="_new_target" value="&quot;API_tests.TestAPIs.test_delete_booking_with_empty_ID&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for API_tests.TestAPIs.test_update_lastname_depositpaid_and_checkout_in_booking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for API_tests.TestAPIs.test_delete_booking_with_invalid_ID" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Booking test API" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -164,11 +200,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;API_tests.TestAPIs.test_update_lastname_depositpaid_and_checkout_in_booking&quot;" />
+      <option name="_new_target" value="&quot;API_tests.TestAPIs.test_delete_booking_with_invalid_ID&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for API_tests.TestAPIs.test_update_totalprice_checkin_and_additionalneeds_in_booking" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for API_tests.TestAPIs.test_delete_booking_with_nonexistent_ID" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Booking test API" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,24 +215,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;API_tests.TestAPIs.test_update_totalprice_checkin_and_additionalneeds_in_booking&quot;" />
+      <option name="_new_target" value="&quot;API_tests.TestAPIs.test_delete_booking_with_nonexistent_ID&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs" />
-        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs.test_delete_booking_by_ID" />
-        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs.test_update_lastname_depositpaid_and_checkout_in_booking" />
-        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs.test_update_totalprice_checkin_and_additionalneeds_in_booking" />
-        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs.test_update_firstname_in_booking" />
+        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_invalid_checkout" />
+        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs.test_create_booking_with_invalid_checkin" />
+        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs.test_delete_booking_with_nonexistent_ID" />
+        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs.test_delete_booking_with_invalid_ID" />
+        <item itemvalue="Python tests.Python tests for API_tests.TestAPIs.test_delete_booking_with_empty_ID" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
+        <option value="bundled-python-sdk-6a3326d57233-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.24807.21" />
       </set>
     </attachedChunks>
   </component>
@@ -209,7 +245,20 @@
       <option name="presentableId" value="Default" />
       <updated>1734195446575</updated>
     </task>
+    <task id="LOCAL-00001" summary="Desarrollo 1">
+      <option name="closed" value="true" />
+      <created>1734415492328</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734415492328</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Desarrollo 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desarrollo 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
