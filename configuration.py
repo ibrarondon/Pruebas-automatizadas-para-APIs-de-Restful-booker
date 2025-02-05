@@ -1,5 +1,5 @@
 URL_SERVICE = "https://restful-booker.herokuapp.com"
-CREATE_TOKEN = "/auth" #endpoint para crear token
-BOOKINGS = "/booking" #endpoint para conseguir todos los ID de booking
-BOOKING_BY_ID = "/booking/" #endpoint para conseguir booking por ID para GET, UPDATE o DELETE
-PING = "/ping" #endpoint para probar si API funciona
+CREATE_TOKEN = "/auth" #Endpoint to create a token
+BOOKINGS = "/booking" #Endpoint to get bookings by ID
+BOOKING_BY_ID = "/booking/" #Endpoint to get bookings by ID to use GET, UPDATE or DELETE
+PING = "/ping" #Endpoint to check API health
